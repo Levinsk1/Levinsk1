@@ -1,4 +1,4 @@
-## Arthur Henrique Levinski de Lima👋
+# Arthur Henrique Levinski de Lima👋
 
 ## SOBRE MIM 🤔
 #### Sou um estudante de desenvolvimento de sistemas, tenho 19 anos, sou conhecido pela minha personalidade alegre, simpática e acolhedora. Sempre com uma atitude positiva, encaro desafios como oportunidades de crescimento, mantendo o bom humor mesmo diante de situações difíceis.
