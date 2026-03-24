@@ -1,15 +1,18 @@
 ## 𝐴𝑟𝑡ℎ𝑢𝑟 𝐻𝑒𝑛𝑟𝑖𝑞𝑢𝑒 𝐿𝑒𝑣𝑖𝑛𝑠𝑘𝑖 𝑑𝑒 𝐿𝑖𝑚𝑎 
 
-#### SOBRE MIM 🤔
+#### Sobre mim 🤔
+###### Sou estudante de Desenvolvimento de Sistemas, com 19 anos, em transição de carreira da área comercial para a tecnologia. Tenho um perfil comunicativo, proativo e colaborativo, características que me permitem trabalhar bem em equipe e construir relações profissionais sólidas.
+###### Encaro desafios como oportunidades de crescimento e busco manter uma postura positiva mesmo diante de situações adversas. Valorizo a troca de conhecimentos e estou sempre disposto a contribuir com o desenvolvimento coletivo.
+###### Atualmente, dedico-me ao aprimoramento técnico, estudando novas tecnologias e fortalecendo minhas habilidades na área de desenvolvimento. Sou organizado, disciplinado e comprometido com minha evolução contínua. 🚀
 
-###### Sou um estudante de desenvolvimento de sistemas, tenho 19 anos, sou conhecido pela minha personalidade alegre, simpática e acolhedora. Sempre com uma atitude positiva, encaro desafios como oportunidades de crescimento, mantendo o bom humor mesmo diante de situações difíceis.
-###### Tenho facilidade para me comunicar e trabalhar em equipe, valorizo a troca de conhecimentos e acredito no poder da colaboração. sou prestativo e estou sempre disposto a ajudar colegas, criando conexões genuínas por onde passo. Atualmente, estou em processo de transição de carreira, buscando migrar da  área comercial para o desenvolvimento de sistemas.Sou curioso e dedicado, estou sempre em constante evolução. Busco aprender novas tecnologias, aprimorar minhas habilidades e me manter atualizado no universo do desenvolvimento de sistemas. Organizado e disciplinado.
+#### Formação Acadêmica 🖋️
+###### Ensino Médio completo
+###### Cursando Desenvolvimento de Sistemas
 
-#### FORMAÇÃO ACADÊMICA  🖋️
-
-###### Ensino Médio completo ; Cursando desenvolvimento de Sistemas.
-
-#### EXPERIÊNCIA PROFISSIONAL 📁
-###### Estoquista/Controle de qualidade , Atendimento ao Público , Gestão de Documentos e Vendas Presencial/Online.
+#### Experiência Profissional 📁
+###### Estoque e Controle de Qualidade
+###### Atendimento ao Público
+###### Gestão de Documentos
+###### Vendas Presenciais e Online
 
 
